@@ -1,0 +1,2 @@
+# iterating-methods
+переберающие методы 
